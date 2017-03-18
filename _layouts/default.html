@@ -1,0 +1,26 @@
+{% if page.lang %}
+    {% assign lang-suffix = '-' | append: page.lang %}
+{% else %}
+    {% assign lang-suffix = '' %}
+{% endif %}
+
+<!DOCTYPE html>
+<html>
+    <head>
+	    {% include head-section.html %}
+        
+        <link href="{{ site.baseurl }}/css/home.css" rel="stylesheet">
+    </head>
+
+	<body>
+        {% include main-menu{{ lang-suffix }}.html %}
+
+        <div class="main-content">
+        {{ content }}
+        </div>
+
+        {% include footer.html %}
+
+        {% include analytics.html %}
+	</body>
+</html>

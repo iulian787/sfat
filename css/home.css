@@ -1,0 +1,57 @@
+.home-header .container > div {
+    /*background-color: #000;*/
+    height: 400px;
+}
+
+div.home-banner {
+    background-image: url(/img/home/st-athanasius-banner.jpg);
+    background-position: 15% top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom: 5px solid #D16A6A;
+    display: inline-block;
+    height: 420px;
+    margin-bottom: 20px;
+    margin-top: -85px;
+    width: 100%;
+}
+
+div.home-banner h1 {
+    color: #D69D22;
+    line-height: 45px;
+    margin-top: 190px;
+    text-shadow: 2px 2px 5px black;
+}
+
+.home-header-right {
+    background-image: url(/img/home/curch-front.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.carousel-container {
+    position: relative;
+}
+
+div.carousel-item {
+    background-position: center;
+    background-size: cover;
+    display: inline-block;
+    height: 300px;
+}
+
+.carousel-prev, .carousel-next {
+    color: white;
+    font-size: 3em;
+    position: absolute;
+    opacity: 0.7;
+    top: 120px;
+}
+
+.carousel-prev {
+    left: 10px;
+}
+
+.carousel-next {
+    right: 10px;
+}

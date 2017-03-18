@@ -1,0 +1,114 @@
+@media (max-width: 768px) {
+    nav.main-menu .navbar-nav > li.open li a:not(:hover) {
+        color: #DBDBDB;
+    }
+
+    nav.main-menu .navbar-nav {
+        /*background-image: url(/img/home/st-athanasius.png);*/
+        /*background-color: #541311;*/
+        background-color: rgba(84, 19, 17, 0.9);
+        margin: 0px -15px; 
+    }
+}
+
+div.menu-wrapper {
+    background-color: rgba(84, 19, 17, 0.9);
+    border-bottom: 5px solid #D34545;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+
+nav.main-menu {
+    border-radius: 0px;
+    border-width: 0px 0px 5px 0px;
+    height: 60px !important;
+    margin-bottom: 0px;
+    /*padding-right: 50px;*/
+    z-index: 999;
+}
+
+.navbar-brand,
+ul.navbar-nav > li > a,
+.navbar-toggle {
+    line-height: 60px;
+    height: 60px;
+    padding-top: 0px;
+}
+
+.navbar-toggle {
+    margin: 0px;
+    padding: 0px 20px;
+}
+
+.navbar-collapse {
+    border-width: 0px;
+}
+
+nav.main-menu .navbar-nav > li > a, nav.main-menu .navbar-brand {
+    color: #DBDBDB;
+    font-family: "Arima Madurai","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+nav.main-menu .navbar-nav > li.open > a {
+    /*background-color: #EACCCC;*/
+    color: black;
+}
+
+nav.main-menu .navbar-nav > li > a {
+    font-size: 16px;
+}
+
+nav.main-menu .navbar-brand {
+    font-size: 20px;
+    overflow: visible;
+}
+
+nav.main-menu .navbar-nav > li > a:hover,
+nav.main-menu .navbar-nav > li.active > a {
+    /*background-color: #EACCCC;*/
+    color: black;
+}
+
+nav.main-menu .navbar-nav > li.active > a,
+nav.main-menu .active > a:focus {
+    color: #ededed;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: rgba(237, 237, 237, 1);
+}
+
+span.icon-bar {
+    background-color: #ededed;
+}
+
+div.flag, div.home {
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    margin: 15px 5px;
+    position: relative;
+    width: 30px;
+}
+
+div.flag-us {
+    background-image: url(/img/icons/flag-usa-round-64.png);
+}
+
+div.flag-ro {
+    background-image: url(/img/icons/flag-romania-round-64.png);
+}
+
+div.home {
+    background-image: url(/img/icons/home-light-gray.png);
+}
+
+a.home:hover div.home {
+    background-image: url(/img/icons/home-dark-gray.png);
+}
