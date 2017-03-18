@@ -98,17 +98,17 @@ div.flag, div.home {
 }
 
 div.flag-us {
-    background-image: url(/img/icons/flag-usa-round-64.png);
+    background-image: url({{ site.baseurl }}/img/icons/flag-usa-round-64.png);
 }
 
 div.flag-ro {
-    background-image: url(/img/icons/flag-romania-round-64.png);
+    background-image: url({{ site.baseurl }}/img/icons/flag-romania-round-64.png);
 }
 
 div.home {
-    background-image: url(/img/icons/home-light-gray.png);
+    background-image: url({{ site.baseurl }}/img/icons/home-light-gray.png);
 }
 
 a.home:hover div.home {
-    background-image: url(/img/icons/home-dark-gray.png);
+    background-image: url({{ site.baseurl }}/img/icons/home-dark-gray.png);
 }
