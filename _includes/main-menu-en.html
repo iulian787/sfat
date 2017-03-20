@@ -55,11 +55,18 @@
                     </ul>
                 </li>
                 <li><a href="contact.html">Contact</a></li>
-                <!-- Flag icon -->
+                <!-- Language menu -->
                 <li>
-                    <a href="{{ site.baseurl }}/">
-                        <div class="flag flag-ro" title="Română"></div>
+                    <a class="dropdown-toggle" data-toggle="dropdown" title="Switch language" href="#">
+                        <div class="flag flag-us"></div> <span class="caret"></span>
                     </a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a title="Română" href="{{ site.baseurl }}/index.html">
+                                <div class="flag flag-ro"></div> Română
+                            </a>
+                        </li>
+                    </ul>
                 </li>
             </ul>
         </div>
