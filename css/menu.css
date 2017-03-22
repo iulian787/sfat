@@ -16,7 +16,7 @@
 
 div.menu-wrapper {
     background-color: rgba(84, 19, 17, 0.9);
-    border-bottom: 5px solid #D34545;
+    border-bottom: 1px solid #873C3C;
     position: fixed;
     width: 100%;
     z-index: 999;

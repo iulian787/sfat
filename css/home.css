@@ -25,10 +25,36 @@ div.home-banner h1 {
     text-shadow: 2px 2px 5px black;
 }
 
-.home-header-right {
-    background-image: url(/img/home/curch-front.jpg);
-    background-repeat: no-repeat;
-    background-size: 100%;
+ul.events {
+    list-style: none;
+    padding: 0px 0px 0px 10px;
+}
+
+ul.events > li {
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+ul.events > li:not(:last-child) {
+    border-bottom: 1px dotted gray;
+}
+
+ul.events .time {
+    background-color: transparent;
+    border: 1px solid #777;
+    border-radius: .25em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    padding: .2em .6em .3em;
+    text-align: center;
+    vertical-align: baseline;
+    white-space: nowrap;
+}
+
+ul.events > li ul {
+    list-style: disc;
+    padding-left: 25px;
 }
 
 .carousel-container {

@@ -2,9 +2,9 @@
 ---
 
 body {
-    /*font-family: 'Source Serif Pro', serif;*/
+    background-color: #AFAFAF;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 h1, h2, h3, label {
@@ -24,10 +24,11 @@ h2 {
 }
 
 h3 {
-    font-size: 20px;
+    font-size: 22px;
 }
 
 div.main-content {
+    background-color: white;
     margin-top: 65px;
     padding: 0px 0px 20px 0px;
 }
@@ -35,7 +36,6 @@ div.main-content {
 footer {
     color: #5B5B5B;
     background-color: #E0E0E0;
-    border-bottom: 5px solid #A0A0A0;
     font-size: 13px;
     padding-top: 20px;
     padding-bottom: 10px;
@@ -55,13 +55,12 @@ footer ul.footer-menu-links li {
     display: inline-block;
 }
 
-div.container.little-church {
+div.container.tiny-church {
     position: relative;
 }
 
-div.little-church-img {
-    background-image: url({{ site.baseurl }}/img/little-church.png);
-    /*background-position: 15% top;*/
+div.tiny-church-img {
+    background-image: url({{ site.baseurl }}/img/tiny-church.png);
     background-repeat: no-repeat;
     background-position: bottom right;
     background-size: 35%;
@@ -81,6 +80,11 @@ span.footer-menu-links-separator {
     vertical-align: middle;
 }
 
+div.ground-line {
+    background-color: #A0A0A0;
+    height: 5px;
+}
+
 p.copyright {
     margin: 15px 0 0;
 }
@@ -96,4 +100,25 @@ p.copyright {
 	left: 0;
 	width: 100%;
 	height: 100%;
+}
+
+h3.icon-calendar {
+    background-image: url('{{ site.baseurl }}/img/icons/calendar-dark-gray.png');
+    background-repeat: no-repeat;
+    background-size: 22px 23px;
+    padding-left: 30px;  /* width of the image plus a little extra padding */
+}
+
+h3.icon-link {
+    background-image: url('{{ site.baseurl }}/img/icons/link-dark-gray.png');
+    background-repeat: no-repeat;
+    background-size: 22px 21px;
+    padding-left: 30px;  /* width of the image plus a little extra padding */
+}
+
+h3.icon-seven {
+    background-image: url('{{ site.baseurl }}/img/icons/seven-dark-gray.png');
+    background-repeat: no-repeat;
+    background-size: 22px 23px;
+    padding-left: 30px;  /* width of the image plus a little extra padding */
 }
