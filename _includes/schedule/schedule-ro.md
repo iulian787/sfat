@@ -18,4 +18,3 @@
   La Școala Duminicală copiii vor învăța despre Patimile Domnului și vor avea parte de un nou proiect pe aceasta tematica! IMPORTANT: Din această Duminică încep pregătirile pentru Serbarea de Paști!!! Vă rugăm să îi aduceți pe copii din timp! Sunday School  începe la ora 10.30!!!
 
 * <label class="primary">Duminica 26 Martie, 6pm</label> Taina Sfantului Maslu in sobor de preoti la Sf. Atanasie cel Mare din Aurora (3003 N Eola Rd, Aurora, IL). Slujba va fi oficiata de Pr. Florin Soare in sobor alaturi de Pr. Gheorghe Ursache (Biserica Sf. Maria), Pr. Ioan Lupescu (Biserica Nasterea Domnului) si de Pr. Simion Pavel și Pr. Nicolae Izbasa (preoti asistenti in cadrul Bis. Nasterea Domnului). Cuvant de invatatura - Pr. Ioan Lupescu
-<!--* <label></label> Descriere-->
