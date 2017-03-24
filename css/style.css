@@ -8,6 +8,7 @@ body {
 }
 
 h1, h2, h3, label {
+    color: #A50000;
     font-family: 'Oswald', sans-serif;
 }
 
@@ -103,21 +104,21 @@ p.copyright {
 }
 
 h3.icon-calendar {
-    background-image: url('{{ site.baseurl }}/img/icons/calendar-dark-gray.png');
+    background-image: url('{{ site.baseurl }}/img/icons/calendar-dark.png');
     background-repeat: no-repeat;
     background-size: 22px 23px;
     padding-left: 30px;  /* width of the image plus a little extra padding */
 }
 
 h3.icon-link {
-    background-image: url('{{ site.baseurl }}/img/icons/link-dark-gray.png');
+    background-image: url('{{ site.baseurl }}/img/icons/link-dark.png');
     background-repeat: no-repeat;
     background-size: 22px 21px;
     padding-left: 30px;  /* width of the image plus a little extra padding */
 }
 
 h3.icon-seven {
-    background-image: url('{{ site.baseurl }}/img/icons/seven-dark-gray.png');
+    background-image: url('{{ site.baseurl }}/img/icons/seven-dark.png');
     background-repeat: no-repeat;
     background-size: 22px 23px;
     padding-left: 30px;  /* width of the image plus a little extra padding */
