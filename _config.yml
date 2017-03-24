@@ -24,12 +24,6 @@ description-en: >
 baseurl: "" # the subpath of the site, e.g. /blog
 url: "" # the base hostname & protocol for the site, e.g. http://example.com
 
-collections:
-  events:
-    output: false
-  schedule:
-    output: false
-
 # Build settings
 markdown: kramdown
 # theme: minima

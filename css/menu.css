@@ -7,16 +7,33 @@
     }
 
     nav.main-menu .navbar-nav {
-        /*background-image: url(/img/home/st-athanasius.png);*/
-        /*background-color: #541311;*/
         background-color: rgba(84, 19, 17, 0.9);
         margin: 0px -15px; 
+    }
+
+    .scrollable-menu {
+        height: auto;
+        max-height: 400px;
+        overflow-x: hidden;
+        overflow-y: auto;
     }
 }
 
 div.menu-wrapper {
-    background-color: rgba(84, 19, 17, 0.9);
-    border-bottom: 1px solid #873C3C;
+    /*background-color: rgba(84, 19, 17, 0.9);*/
+    background: -moz-linear-gradient(top, rgba(48,10,10,0.9) 0%, rgba(84,19,17,0.85) 100%); /* FF3.6-15 */
+    
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#470f0e+24,541311+100&1+24,0.9+100 */
+    background: -moz-linear-gradient(top,  rgba(71,15,14,1) 24%, rgba(84,19,17,0.9) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgba(71,15,14,1) 24%,rgba(84,19,17,0.9) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgba(71,15,14,1) 24%,rgba(84,19,17,0.9) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#470f0e', endColorstr='#e6541311',GradientType=0 ); /* IE6-9 */
+
+
+
+    /*border-bottom: 1px solid #753434;*/
+    border-bottom: 1px solid #512E2D;
+    
     position: fixed;
     width: 100%;
     z-index: 999;

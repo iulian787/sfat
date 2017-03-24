@@ -1,26 +1,27 @@
 {% if page.lang %}
     {% assign lang-suffix = '-' | append: page.lang %}
 {% else %}
-    {% assign lang-suffix = '' %}
+    {% assign lang-suffix = '-ro' %}
 {% endif %}
 
 <!DOCTYPE html>
 <html>
     <head>
-	    {% include head-section.html %}
+	    {% include other/head-section.html %}
+        {% include other/main-menu{{ lang-suffix }}.html %}
         
         <link href="{{ site.baseurl }}/css/home.css" rel="stylesheet">
     </head>
 
 	<body>
-        {% include main-menu{{ lang-suffix }}.html %}
+        {{ lang-suffix }}
 
         <div class="main-content">
         {{ content }}
         </div>
 
-        {% include footer{{ lang-suffix }}.html %}
+        {% include other/footer{{ lang-suffix }}.html %}
 
-        {% include analytics.html %}
+        {% include other/analytics.html %}
 	</body>
 </html>

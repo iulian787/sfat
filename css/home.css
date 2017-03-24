@@ -25,21 +25,21 @@ div.home-banner h1 {
     text-shadow: 2px 2px 5px black;
 }
 
-ul.events {
+div.events > ul {
     list-style: none;
     padding: 0px 0px 0px 10px;
 }
 
-ul.events > li {
+div.events > ul > li {
     padding-bottom: 5px;
     padding-top: 5px;
 }
 
-ul.events > li:not(:last-child) {
+div.events > ul > li:not(:last-child) {
     border-bottom: 1px dotted gray;
 }
 
-ul.events .time {
+div.events > ul .time {
     background-color: transparent;
     border: 1px solid #777;
     border-radius: .25em;
@@ -52,9 +52,27 @@ ul.events .time {
     white-space: nowrap;
 }
 
-ul.events > li ul {
+div.events > ul > li ul {
     list-style: disc;
     padding-left: 25px;
+}
+
+div.events > ul > li label {
+    background-color: #777;
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+
+div.events > ul > li label.primary {
+    background-color: #337ab7;
 }
 
 .carousel-container {

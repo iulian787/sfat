@@ -1,4 +1,5 @@
 ---
+lang: ro
 layout: default
 permalink: /index.html
 ---
@@ -15,53 +16,24 @@ permalink: /index.html
 
 <div class="container">
     <div class="row">
-        <div class="col-md-3">
+        <div class="col-md-3 events">
             <h3 class="icon-seven">Program săptămânal</h3>
 
-            <ul class="events">
-            {% assign schedule = (site.schedule | first)  %}
-            
-            {% for entry in schedule.entries %}
-                {% if entry.important %}
-                    {% assign class = 'label-primary'  %}
-                {% else %}
-                    {% assign class = ''  %}
-                {% endif %}
-                <li>
-                    <span class="label label-default {{class}}">{{ entry.date-ro }}</span>
-                    {{  entry.description-ro }}
-                    {% if entry.list-ro %}
-                        <ul class="">
-                            {% for subEntry in entry.list-ro %}
-                            <li>{{ subEntry }}</li>
-                            {% endfor %}
-                        </ul>
-                    {% endif %}
-                </li>
-            {% endfor %}
-            </ul>
+            {% capture schedule %}{% include schedule/schedule-ro.md %}{% endcapture %}
+            {{ schedule | markdownify }}
 
             <h3 class="icon-calendar">Calendar evenimente</h3>
-            <ul class="events">
-            {% assign events = (site.events | first)  %}
-            
-            {% for entry in events.entries %}
-                {% if entry.showOnHomepage == nil or entry.showOnHomepage == true  %}
-                    {% if entry.important %}
-                        {% assign class = 'label-primary'  %}
-                    {% else %}
-                        {% assign class = ''  %}
-                    {% endif %}
-                    <li>
-                        <span class="label label-default {{class}}">{{ entry.date-ro }}</span>
-                        {{  entry.description-ro }}
-                    </li>
-                {% endif %}
-            {% endfor %}
-            </ul>
+            {% capture schedule %}{% include events/events-ro.md %}{% endcapture %}
+            {{ schedule | markdownify }}
         </div>
         <div class="col-md-6">
-            <h2>Biserica noastră</h2>
+            <p>
+                <div class="videoWrapper-16-9">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/NpEaa2P7qZI?rel=0" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </p>
+            
+            <h2>Despre biserica noastră</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus at odio et ipsum sagittis condimentum. Vestibulum efficitur porttitor massa, vitae feugiat nunc lacinia nec. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur in massa ut nunc pharetra tincidunt nec a sapien.</p>
             
             <p>
@@ -74,6 +46,7 @@ permalink: /index.html
 
             <p>Duis nec faucibus augue, a vehicula justo. In varius maximus ex at posuere. Vivamus vel placerat leo. Ut vitae efficitur urna. Nulla rutrum dictum leo, et porta dui. Nunc congue cursus eros ullamcorper molestie. Aliquam quis varius dui, at vehicula purus. Duis ligula tellus, blandit lacinia euismod a, dignissim fermentum urna.</p>
 
+            <p>Proin sodales eros et odio pharetra, ac tempus mauris tempus. Nam quis malesuada nisl, at cursus metus. Nunc hendrerit auctor metus ac accumsan. Curabitur tincidunt, nulla a dapibus tincidunt, sem sapien commodo tortor, interdum iaculis orci orci ac risus. Duis lobortis, sapien eu faucibus maximus, nisi quam posuere elit, non lacinia arcu velit non purus. Mauris tincidunt lacus in ante laoreet consectetur. Nulla id porttitor diam. Nullam eget arcu dui. Morbi id magna orci. Cras sed consequat erat.</p>
 
         </div>
         <div class="col-md-3">
@@ -88,7 +61,7 @@ permalink: /index.html
                     <input type="hidden" name="currency_code" value="USD">
                     <input type="hidden" name="bn" value="PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest">
                     <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                    <!--<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">-->
                 </form>
             </div>
 
@@ -112,6 +85,12 @@ permalink: /index.html
 
             <h3>Donec mollis sed ipsum</h3>
             <p>Etiam orci erat, eleifend ac mauris vestibulum, tincidunt tincidunt risus. Donec eget nisl odio. Mauris eu dolor id diam lacinia ullamcorper ut nec urna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam pellentesque nulla orci, sit amet finibus arcu malesuada nec. Maecenas lobortis vel dui id feugiat. Suspendisse neque lorem, sagittis id euismod id, vulputate id enim. Vivamus hendrerit odio interdum dui venenatis, sed semper mauris porta. Morbi nulla metus, vulputate eu maximus ac, finibus ac arcu. Sed ornare augue eu felis vehicula posuere. Proin tortor mi, elementum id ante ac, fringilla suscipit nunc. Pellentesque fermentum libero ac lacus vestibulum, et auctor erat vulputate.</p>
+
+            <h3>Integer non est et eros egestas pretium</h3>
+            <p>Nulla facilisi. Aenean condimentum leo lacus. Maecenas ut porta dolor. Donec viverra, velit non imperdiet facilisis, metus est placerat ligula, sed vulputate urna leo ut diam. Suspendisse dictum viverra justo, at vestibulum eros vehicula eu. Integer euismod tortor a lacus vestibulum scelerisque. Ut ut dui sapien. Sed in vehicula nisl. Suspendisse potenti. Donec lacinia sollicitudin felis, ut dapibus lacus pulvinar eu. Donec egestas imperdiet risus id dapibus. Aliquam pharetra tellus vel metus ultrices fermentum. Nulla vitae mi posuere, finibus orci et, condimentum urna.</p>
+            <p>Nam pharetra a nulla eu suscipit. Nullam sit amet ornare est. Curabitur dictum nibh tortor, sit amet bibendum ante interdum ac. Nulla et elit vehicula, lacinia quam a, semper eros. Fusce maximus viverra ante id euismod. Proin feugiat interdum felis, ut accumsan quam aliquet non. Ut eget lectus ut velit egestas pretium vitae sit amet risus. Sed efficitur purus velit, ac eleifend libero lacinia in. Sed ligula velit, placerat a nisi non, facilisis semper mi. Donec vitae nulla ullamcorper, pharetra leo sed, hendrerit elit. Sed et massa dapibus, semper elit vitae, interdum sem. Donec aliquet viverra mi, a suscipit tellus mollis in. Fusce ac orci elit. Donec laoreet libero leo, in finibus nibh egestas in. Ut eu facilisis ipsum.</p>
+
+
         </div>
     </div>    
 </div>
