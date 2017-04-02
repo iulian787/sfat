@@ -7,7 +7,7 @@ body {
     font-size: 14px;
 }
 
-h1, h2, h3, label {
+h1, h2, h3 {
     color: #960000;
     font-family: 'Oswald', sans-serif;
 }
@@ -17,11 +17,11 @@ label, button, input, textarea, .nav, .sans {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 38px;
 }
 
 h2 {
-    font-size: 30px;
+    font-size: 26px;
 }
 
 h3 {
@@ -30,7 +30,7 @@ h3 {
 
 div.main-content {
     background-color: white;
-    margin-top: 65px;
+    margin-top: 60px;
     padding: 0px 0px 20px 0px;
 }
 
