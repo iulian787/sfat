@@ -20,7 +20,7 @@
 }
 
 div.menu-wrapper {
-    background-color: rgba(84, 19, 17, 1);
+    background-color: #541311;
     border-bottom: 1px solid #662E2E;
     position: fixed;
     width: 100%;
@@ -61,9 +61,10 @@ nav.main-menu .navbar-nav > li > a, nav.main-menu .navbar-brand {
     font-family: "Arima Madurai","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
-nav.main-menu .navbar-nav > li.open > a {
+nav.main-menu .navbar-nav > li.open > a
+ {
     /*background-color: #EACCCC;*/
-    color: black;
+    color: #541311;
 }
 
 nav.main-menu .navbar-nav > li > a {
@@ -76,9 +77,10 @@ nav.main-menu .navbar-brand {
 }
 
 nav.main-menu .navbar-nav > li > a:hover,
+nav.main-menu .navbar-nav > li > a:focus,
 nav.main-menu .navbar-nav > li.active > a {
     /*background-color: #EACCCC;*/
-    color: black;
+    color: #3F0E0D;
 }
 
 nav.main-menu .navbar-nav > li.active > a,
@@ -118,9 +120,9 @@ div.flag-ro {
 }
 
 div.home {
-    background-image: url({{ site.baseurl }}/img/icons/home-light-gray.png);
+    background-image: url({{ site.baseurl }}/img/icons/home-light.png);
 }
 
 a.home:hover div.home {
-    background-image: url({{ site.baseurl }}/img/icons/home-dark-gray.png);
+    background-image: url({{ site.baseurl }}/img/icons/home-dark.png);
 }

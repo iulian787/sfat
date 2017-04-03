@@ -123,3 +123,12 @@ h3.icon-seven {
     background-size: 22px 23px;
     padding-left: 30px;  /* width of the image plus a little extra padding */
 }
+
+p.big-first-letter::first-letter {
+    float: left;
+    font-family: 'Georgia', 'Oswald', sans-serif;
+    font-size: 38px;
+    line-height: 38px;
+    margin-right: 10px;
+    /*vertical-align: top;*/
+}
