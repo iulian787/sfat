@@ -10,6 +10,7 @@ body {
 h1, h2, h3 {
     color: #960000;
     font-family: 'Oswald', sans-serif;
+    line-height: 130%;
     margin-top: 15px;
 }
 
