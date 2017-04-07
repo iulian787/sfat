@@ -126,6 +126,13 @@ h3.icon-seven {
     padding-left: 30px;  /* width of the image plus a little extra padding */
 }
 
+h3.icon-bell {
+    background-image: url('{{ site.baseurl }}/img/icons/bell-dark.png');
+    background-repeat: no-repeat;
+    background-size: 23px 23px;
+    padding-left: 30px;  /* width of the image plus a little extra padding */
+}
+
 p.big-first-letter::first-letter {
     float: left;
     font-family: 'Georgia', 'Oswald', sans-serif;
