@@ -1,79 +1,84 @@
 <!-- Navigation -->
 <div class="menu-wrapper">
-    <nav class="navbar main-menu" role="navigation">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-            <!--<a class="navbar-brand hidden-xs hidden-sm hidden-md" href="{{ site.baseurl }}/">Saint Athanasius the Great<br>Romanian Orthodox Church</a>-->
-            <a class="navbar-brand hidden-sm" href="{{ site.baseurl }}/">Biserica Sfântul Atanasie</a>
-            
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-        </div>
+    <div class="container">
+        <div class="row">
+            <nav class="navbar main-menu" role="navigation">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <!--<a class="navbar-brand hidden-xs hidden-sm hidden-md" href="{{ site.baseurl }}/">Saint Athanasius the Great<br>Romanian Orthodox Church</a>-->
+                    <a class="navbar-brand hidden-sm" href="{{ site.baseurl }}/">Biserica Sfântul Atanasie</a>
+                    
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
 
-        <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right scrollable-menu">
-                <li>
-                    <a class="home" href="{{ site.baseurl }}/">
-                        <div class="home" title="Home"></div>
-                    </a>
-                </li>
-                <li class="dropdown">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Parohie <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="#">Preot paroh</a></li>
-                        <li><a href="#">Consiliul parohial</a></li>
-                        <li><a href="#">Servicii religioase</a></li>
-                        <li><a href="#">Istoricul bisericii noastre</a></li>
-                        <li><a href="#">Galerie foto/video</a></li>
-                    </ul>
-                </li>
-                <li class="dropdown">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Membri <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="#">Inscriere membri noi</a></li>
-                        <li><a href="#">Donații</a></li>
-                    </ul>
-                </li>
-                <li class="dropdown">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Comunitate <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="#">Ora de cafea</a></li>
-                        <li><a href="#">Organizația de femei Sfânta Ana</a></li>
-                        <li><a href="#">Organizația de tineret</a></li>
-                        <li><a href="#">Evenimente private</a></li>
-                    </ul>
-                </li>
-                <li class="dropdown">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Ortodoxie <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="#">Patronul nostru spiritual Sf. Atanasie cel Mare</a></li>
-                        <li><a href="#">Rugăciuni</a></li>
-                        <li><a href="#">Cum ne purtam in biserica ortodoxa</a></li>
-                        <li><a href="#">Catehism ortodox</a></li>
-                    </ul>
-                </li>
-                <li><a href="contact.html">Contact</a></li>
-                <!-- Language menu -->
-                <li>
-                    <a class="dropdown-toggle" data-toggle="dropdown" title="Switch language" href="#">
-                        <div class="flag flag-ro"></div> <span class="caret"></span>
-                    </a>
-                    <ul class="dropdown-menu">
+                <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right scrollable-menu">
                         <li>
-                            <a title="English" href="{{ site.baseurl }}/en/">
-                                <div class="flag flag-us"></div> English
+                            <a class="home" href="{{ site.baseurl }}/">
+                                <div class="home" title="Home"></div>
                             </a>
                         </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Parohie <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="{{ site.baseurl }}/ro/preot-paroh.html">Preot paroh</a></li>
+                                <li><a href="{{ site.baseurl }}/ro/servicii-religioase.html">Servicii religioase</a></li>
+                                <li><a href="{{ site.baseurl }}/ro/sustinere.html">Susținere</a></li>
+                                <!--<li><a href="#">Istoricul bisericii noastre</a></li>-->
+                                <!--<li><a href="#">Galerie foto/video</a></li>-->
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Membri <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="{{ site.baseurl }}/ro/inscriere-membri.html">Înscriere membri</a></li>
+                                <li><a href="{{ site.baseurl }}/download/formular-pledge-2017.pdf" target="_blank">Formular de Pledge</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Comunitate <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <!--<li><a href="#">Ora de cafea</a></li>-->
+                                <li><a href="{{ site.baseurl }}/ro/organizatia-de-femei.html">Organizația de Femei "Sfânta Ana"</a></li>
+                                <!--<li><a href="#">Organizația de Tineret</a></li>-->
+                                <li><a href="{{ site.baseurl }}/ro/evenimente-private.html">Evenimente private</a></li>
+                                <li><a href="{{ site.baseurl }}/ro/curs-de-pictura-icoane.html">Curs de pictură icoane</a></li>
+                            </ul>
+                        </li>
+                        <!--<li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Ortodoxie <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Patronul nostru spiritual Sf. Atanasie cel Mare</a></li>
+                                <li><a href="#">Rugăciuni</a></li>
+                                <li><a href="#">Cum ne purtam in biserica ortodoxa</a></li>
+                                <li><a href="#">Catehism ortodox</a></li>
+                            </ul>
+                        </li>-->
+                        <li><a href="{{ site.baseurl }}/ro/contact.html">Contact</a></li>
+                        <!-- Language menu -->
+                        <!--<li>
+                            <a class="dropdown-toggle" data-toggle="dropdown" title="Switch language" href="#">
+                                <div class="flag flag-ro"></div> <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a title="English" href="{{ site.baseurl }}/en/">
+                                        <div class="flag flag-us"></div> English
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>-->
                     </ul>
-                </li>
-            </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </nav>
         </div>
-        <!-- /.navbar-collapse -->
-    </nav>
+    </div>
 </div>
 <!-- /.container -->
 <div class="clearfix"></div>
