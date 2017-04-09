@@ -107,6 +107,7 @@ p.copyright {
 
 h3.icon-calendar {
     background-image: url('{{ site.baseurl }}/img/icons/calendar-dark.png');
+    background-position-y: 2px;
     background-repeat: no-repeat;
     background-size: 22px 23px;
     padding-left: 30px;  /* width of the image plus a little extra padding */
@@ -121,6 +122,7 @@ h3.icon-link {
 
 h3.icon-seven {
     background-image: url('{{ site.baseurl }}/img/icons/seven-dark.png');
+    background-position-y: 2px;
     background-repeat: no-repeat;
     background-size: 22px 23px;
     padding-left: 30px;  /* width of the image plus a little extra padding */
@@ -128,6 +130,7 @@ h3.icon-seven {
 
 h3.icon-bell {
     background-image: url('{{ site.baseurl }}/img/icons/bell-dark.png');
+    background-position-y: 2px;
     background-repeat: no-repeat;
     background-size: 23px 23px;
     padding-left: 30px;  /* width of the image plus a little extra padding */
@@ -153,8 +156,8 @@ div#preloader img {
 }
 
 .img-round {
-    border-radius: 5px;
-    /*-webkit-box-shadow: 5px 5px 20px -5px rgba(0,0,0,0.75);
-    -moz-box-shadow: 5px 5px 20px -5px rgba(0,0,0,0.75);*/
+    border-radius: 8px;
+    -webkit-box-shadow: 5px 5px 15px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 5px 15px -5px rgba(0,0,0,0.75);
     box-shadow: 5px 5px 15px -5px rgba(0,0,0,0.75);
 }
