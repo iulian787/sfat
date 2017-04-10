@@ -1,3 +1,7 @@
+---
+layout: compress
+---
+
 {% if page.lang %}
     {% assign lang-suffix = '-' | append: page.lang %}
 {% else %}
@@ -22,11 +26,11 @@
         {% include other/footer-common.html %}
         {% include other/analytics.html %}
 
-        <div id="img-preloader">
+        <!--<div id="img-preloader">
             <img src="{{ site.baseurl }}/img/icons/home-light.png">
             <img src="{{ site.baseurl }}/img/icons/home-dark.png">
             <img src="{{ site.baseurl }}/img/icons/flag-romania-round-64.png">
             <img src="{{ site.baseurl }}/img/icons/flag-usa-round-64.png">
-        </div>
+        </div>-->
 	</body>
 </html>
