@@ -31,7 +31,6 @@
 div.menu-wrapper {
     background-color: #541311;
     border-bottom: 1px solid #662E2E;
-    /*border-top: 5px solid #D3A237;*/
     position: fixed;
     width: 100%;
     z-index: 999;
@@ -74,8 +73,6 @@ nav.main-menu .navbar-nav > li > a, nav.main-menu .navbar-brand {
 nav.main-menu .navbar-nav > li.open > a
  {
     background-color: initial;     
-    /*background-color: #EACCCC;*/
-    /*color: #541311;*/
 }
 
 nav.main-menu .navbar-nav > li > a {
@@ -90,10 +87,8 @@ nav.main-menu .navbar-brand {
 nav.main-menu .navbar-nav > li > a:hover,
 nav.main-menu .navbar-nav > li > a:focus,
 nav.main-menu .navbar-nav > li.active > a {
-    /*background-color: #FFDAA3;*/
     background-color: initial;
     border-bottom: 5px solid #FFAD32;
-    /*color: #3F0E0D;*/
 }
 
 nav.main-menu .navbar-nav > li.active > a,

@@ -12,12 +12,10 @@ layout: compress
 <html>
     <head>
 	    {% include other/head-section.html %}
-        {% include other/main-menu{{ lang-suffix }}.html %}
-        
-        <link href="{{ site.baseurl }}/css/home.css" rel="stylesheet">
     </head>
 
 	<body>
+        {% include other/main-menu{{ lang-suffix }}.html %}
         <div class="main-content">
         {{ content }}
         </div>

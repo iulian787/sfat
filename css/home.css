@@ -1,7 +1,6 @@
 ---
 ---
 .home-header .container > div {
-    /*background-color: #000;*/
     height: 400px;
 }
 
@@ -21,7 +20,7 @@ div.home-banner {
 div.home-banner h1 {
     color: #D69D22;
     font-size: 43px;
-    line-height: 58px;
+    line-height: 64px;
     margin-top: 190px;
     text-shadow: 2px 2px 5px black;
 }
