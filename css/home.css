@@ -101,3 +101,13 @@ div.carousel-item {
 .carousel-next {
     right: 10px;
 }
+
+@media (max-width: 360px) {
+    #brand-text {
+        font-size: 90%;
+    }
+
+    div.home-banner {
+        background-position: 18% top;
+    }
+}
