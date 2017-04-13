@@ -12,6 +12,14 @@ layout: compress
 <html>
     <head>
 	    {% include other/head-section.html %}
+
+        {% if page.keywords %}
+            <meta name="keywords" content="{{ page.keywords }}">
+        {% endif %}
+        
+        {% if page.description %}
+            <meta name="description" content="{{ page.description }}">
+        {% endif %}
     </head>
 
 	<body>
