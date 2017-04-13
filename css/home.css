@@ -5,7 +5,7 @@
 }
 
 div.home-banner {
-    background-color: #191919;
+    background-color: #878787;
     background-image: url({{ site.baseurl }}/img/home/st-athanasius-banner.jpg);
     background-position: 15% top;
     background-repeat: no-repeat;
