@@ -89,12 +89,12 @@ div.flag, div.home {
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
-    height: 30px;
-    line-height: 30px;
+    height: 25px;
+    line-height: 25px;
     margin: 15px 5px;
     position: relative;
     vertical-align: middle;
-    width: 30px;
+    width: 32px;
 }
 
 div.flag-us {
