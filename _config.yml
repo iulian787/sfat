@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Biserica Sfântul Atanasie
-title-en: Saint Athanasius Church
+title: Biserica Sfântul Atanasie - Aurora, IL
+title-en: Saint Athanasius Church - Aurora, IL
 email: naperville.mission@gmail.com
 description: >
   Biserica Română Ortodoxă Sfântul Atanasie cel Mare
