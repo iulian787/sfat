@@ -118,6 +118,12 @@ div.home {
         color: #FFAD32;
     }
 
+    /* Make the menu options taller (easier to tap) and a bit more to the left */
+    .navbar-collapse .open .dropdown-menu>li>a {
+        line-height: 23px;
+        padding-left: 40px;
+    }
+
     .navbar-nav > li > a {
         border: none !important;
         padding-bottom: 0px !important;
