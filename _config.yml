@@ -22,7 +22,7 @@ description: >
 description-en: >
   Saint Athanasius Romanian Orthodox Church
 baseurl: "" # the subpath of the site, e.g. /blog
-url: "" # the base hostname & protocol for the site, e.g. http://example.com
+url: "https://stathanasiuschurch.org" # the base hostname & protocol for the site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
