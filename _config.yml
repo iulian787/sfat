@@ -17,10 +17,6 @@
 title: Biserica Sfântul Atanasie - Aurora, IL
 title-en: Saint Athanasius Church - Aurora, IL
 email: naperville.mission@gmail.com
-description: >
-  Biserica Română Ortodoxă Sfântul Atanasie cel Mare
-description-en: >
-  Saint Athanasius Romanian Orthodox Church
 baseurl: "" # the subpath of the site, e.g. /blog
 url: "https://stathanasiuschurch.org" # the base hostname & protocol for the site, e.g. http://example.com
 
