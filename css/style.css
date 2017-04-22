@@ -11,7 +11,8 @@ h1, h2, h3 {
     color: #960000;
     font-family: 'Oswald', sans-serif;
     line-height: 130%;
-    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 label, button, input, textarea, .nav, .sans {
@@ -33,7 +34,7 @@ h3 {
 div.main-content {
     background-color: white;
     margin-top: 60px;
-    padding: 0px 0px 20px 0px;
+    padding: 10px 0px 20px 0px;
 }
 
 footer {
