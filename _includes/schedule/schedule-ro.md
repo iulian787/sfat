@@ -1,5 +1,5 @@
 
-* <label>Vineri, 21 Aprilie (Izvorul Tămăduirii)</label>
+* <label>Vineri, 21 Aprilie</label> (Izvorul Tămăduirii)
   * **09:15 am** - Utrenia
   * **10:00 am** - Sfânta Liturghie
   * **11:30 am** - Sfințirea Aghiasmei Mici
@@ -8,7 +8,7 @@
   * **7:00 pm** - Vecernie
   * **7:40 pm** - Program Spovedanie
 
-* <label>Duminică, 23 Aprilie (Paștile Blajinilor)</label>
+* <label>Duminică, 23 Aprilie</label> (Paștile Blajinilor)
   * **09:15 am** - Utrenia 
   * **10:00 am** - Sfânta Liturghie
   * **10:30 am** - Sunday School. Tematica: Învierea Domnului 
