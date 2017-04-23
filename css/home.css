@@ -58,17 +58,19 @@ div.events > ul > li ul {
 }
 
 div.events > ul > li label {
-    background-color: #4C81A5;
-    display: inline;
-    padding: .2em .6em .3em;
+    background-color: #2F6A8E;
+    border-radius: .25em;
+    color: #fff;
+    display: inline-block;
     font-size: 75%;
     font-weight: 700;
-    line-height: 1;
-    color: #fff;
+    height: 18px;
+    margin-bottom: 1px;
+    margin-top: -1px;
+    padding: 1px 5px 1px 5px;
     text-align: center;
-    white-space: nowrap;
     vertical-align: baseline;
-    border-radius: .25em;
+    white-space: nowrap;
 }
 
 div.events > ul > li label.primary {
