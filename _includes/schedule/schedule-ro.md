@@ -20,4 +20,4 @@
   * **7:00 pm** - Cursul de pictură de icoane pe sticlă
 
 * <label>Joi, 27 Aprilie</label>
-  * **7:00 pm** - Bible Study - începe cel de-al doilea modul din cadrul Studiului Biblic
+  * **7:00 pm** - Bible Study - **AMÂNAT** pentru data de 4 mai

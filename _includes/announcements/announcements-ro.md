@@ -2,4 +2,4 @@
 
   Donatiile dvs. le puteți face chiar astăzi prin cec, cash la biserică sau on-line pe web-site-ul bisericii.
 
-* <label>Bible study</label> Cel de-al doilea modul din cadrul Studiului Biblic începe **joi, 27 Aprilie 2017, ora 7:00&nbsp;pm**.
+* <label>Bible study</label> Cel de-al doilea modul din cadrul Studiului Biblic începe **joi, 4 mai 2017, ora 7:00&nbsp;pm**.
