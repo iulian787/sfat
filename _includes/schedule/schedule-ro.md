@@ -17,7 +17,7 @@
   * **6:30 pm** - Acatistul Sf. Atanasie cel Mare
 
 * <label>Joi, 4 mai</label>
-  * **7:00pm pm** - Bible Study
+  * **7:00 pm** - Bible Study
 
 * <label>Sâmbătă, 6 mai</label>
   * **7:00 pm** - Vecernie
