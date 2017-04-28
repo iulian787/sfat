@@ -1,5 +1,6 @@
 * <label>Sâmbătă, 29 aprilie</label>
   * **7:00 pm** - Vecernie
+  * **7:40 pm** - Spovedanie
 
 * <label>Duminică, 30 aprilie</label>
   * **09:15 am** - Utrenia 
@@ -17,6 +18,9 @@
 
 * <label>Joi, 4 mai</label>
   * **7:00pm pm** - Bible Study
+
+* <label>Sâmbătă, 6 mai</label>
+  * **7:00 pm** - Vecernie
 
 * <label>Duminică, 7 mai</label> Program special de Hram:
   * **09.15 am** - Utrenia
