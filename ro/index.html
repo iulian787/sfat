@@ -23,7 +23,7 @@ title-exclusive: Biserica Sfântul Atanasie - Aurora, IL
             <h3 class="icon-seven">Program săptămânal</h3>
             
             <div class="events">
-                {% capture schedule %}{% include schedule/schedule-ro.md %}{% endcapture %}
+                {% capture schedule %}{% include schedule-ro.md %}{% endcapture %}
                 {{ schedule | markdownify }}
             </div>
         </div>
@@ -34,7 +34,6 @@ title-exclusive: Biserica Sfântul Atanasie - Aurora, IL
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/NpEaa2P7qZI?rel=0" frameborder="0" allowfullscreen></iframe>
                 </div>
             </p>-->
-            <!--<div style="height: 200px; background-color: #217C7F;"> </div>-->
 
             <h2>Bine ați venit!</h2>
 
@@ -49,24 +48,19 @@ title-exclusive: Biserica Sfântul Atanasie - Aurora, IL
             <p>La sfârșitul anului 2016 am reușit să achizitionăm cladirea actuală a bisericii, situată în orașul Aurora, în imediata vecinătate a orașului Naperville și zonei Wheaton-Warrenville. Este o realizare de care suntem foarte mândri și ne bucurăm să putem acum găzdui în noul lăcaș bisericesc pe membrii parohiei noastre și pe oricine dorește să-și deschidă sufletul și să-și mărturisească dragostea pentru Dumnezeu.</p>
 
             <p>Vă așteptăm cu drag la Biserica Română Ortodoxă Sfântul Atanasie cel Mare din Aurora!</p>
-
-            <!--<h3>Mesajul preotului paroh</h3>
-
-            <p style="background-color: #7A462E; text-align: center"><img style="border-radius: 0px;" src="{{ site.baseurl }}/img/home/florin-soare.jpg"></p>-->
-
         </div>
 
         <div class="col-md-3">
             <h3 class="icon-bell">Anunțuri</h3>
             <div class="events">
-                {% capture schedule %}{% include announcements/announcements-ro.md %}{% endcapture %}
+                {% capture schedule %}{% include announcements-ro.md %}{% endcapture %}
                 {{ schedule | markdownify }}
             </div>
 
             <h3 class="icon-calendar">Calendar evenimente</h3>
 
             <div class="events">
-                {% capture schedule %}{% include events/events-ro.md %}{% endcapture %}
+                {% capture schedule %}{% include events-ro.md %}{% endcapture %}
                 {{ schedule | markdownify }}
             </div>
 

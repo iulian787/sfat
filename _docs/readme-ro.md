@@ -1,5 +1,5 @@
 Instrucțiuni pentru editarea de conținut pe site
-------------------------------------------------
+================================================
 
 1. Folosirea spațiilor. Nu puneți niciodată spațiu între un semn de punctuație și cuvântul dinaintea lui. Spațiul se pune totdeauna după semnul de puctuație. Motivul este pentru a permite textului sa "curgă" în mod corect pe rândul următor și a da textului un aspect "îngrijit". De exemplu:
   * Corect: "... Biserica Sf. Atanasie cel Mare, ca membră integrantă a ..."
