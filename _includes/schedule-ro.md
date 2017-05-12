@@ -9,5 +9,5 @@
   * **11.45 am** - Parastas
   * **12.00 am** - Ora de cafea
 
-* <label>Joi, 18 mai</label>
+* <label>Joi, 18 mai 2017</label>
   * **7:00 pm** - Bible study  
