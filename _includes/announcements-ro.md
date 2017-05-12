@@ -1,5 +1,1 @@
-* <label>Hramul Bisericii Sf. Atanasie</label> Duminică 7 mai este o duminică foarte specială pentru biserica noastră şi pentru noi toţi ca şi comunitate. Împreună vom serba hramul bisericii noastre pentru prima dată în biserica noastră proprie!
-
-  Petrecere românească: back-yard barbeque – primul grătar al sezonului! Mici, grătare, muzică şi voie bună! Demonstraţie de dans sportiv: unul dintre campionii europeni la dans sportiv ne va încânta într-o demonstraţie de zile mari!
-
-  Cei care aveţi costume populare tradiţionale, vă rugăm ca la slujba din 7 mai  să veniţi îmbrăcaţi cu ele!
+* <label>Picnicul de vară al Bisericii Sf. Atanasie </label> Duminică, 4 iunie 2017, vă invităm la Picnicul de Vară al Bisericii Sf Atanasie!. Dupa cum deja v-am obișnuit, vă asteptăm cu un meniu variat românesc, muzică românească de calitate , jocuri si voie bună ! Dvs să aduceți vreme bună ! Detalii in afișul de pe această pagină.
