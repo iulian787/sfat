@@ -1,2 +1,2 @@
-* <label>25 mai 2017</label> Hramul Mănăstirii "Înălțarea Domnului" - Mănăstirea "Înălțarea Domnului", din Clinton, Michigan, ne invită pe toți la sărbatorirea Hramului Mănăstirii. <a href="{{ site.baseurl }}/ro/2017/invitatie-inaltarea-domnului.html">Vezi detalii</a>
+* <label>25 mai 2017</label> Hramului Mănăstirii "Înălțarea Domnului"
 * <label>4 iunie 2017</label> Picnicul de vară al Bisericii Sf. Atanasie
