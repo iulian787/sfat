@@ -1,12 +1,12 @@
-* <label>Sâmbătă, 13 mai 2017</label> 
-  * **07.00 pm** - Vecernia
-  * **07.40 pm** - Program Spovedanie
-* <label>Duminică, 14 mai 2017</label>
-  * **09.15 am** - Utrenia
-  * **10.00 am** - Sfânta Liturghie
-  * **10.30 am** - Școala Duminicală - Ultima lecție din acest an școlar ! Tema: Necesitatea prezenței lui Iisus in viața noastră 
-  * **11.30 am** - Predică  
-  * **11.45 am** - Ora de cafea
-
 * <label>Joi, 18 mai 2017</label>
-  * **7:00 pm** - Bible study  
+  * **07:00 pm** - Bible study  
+* <label>Sâmbătă, 20 mai 2017</label> NU ESTE SLUJBĂ
+* <label>Duminică, 21 mai 2017</label> Sf. Împărați Constantin și Elena
+  * **09.15 am** - Acatistul Sf. Împărați Constantin și Elena
+  * **10.00 am** - Sfânta Liturghie
+  * **11.30 am** - Predică
+  * **11.45 am** - FESTIVITATEA DE PREMIERE la Școala Duminicală  
+  * **12.00 pm** - Ora de cafea
+* <label>Joi, 25 mai 2017</label> - Înălțarea Domnului Iisus Hristos
+  * **09.15 am** - Utrenia specială de Înălțare 
+  * **10.00 am** - Sfânta Liturghie
