@@ -1,4 +1,4 @@
-Sitemap: https://stathanasiuschurch.org/robots.txt
+Sitemap: https://stathanasiuschurch.org/sitemap.xml
 
 User-agent: *
 Disallow: /portfolio_page/
