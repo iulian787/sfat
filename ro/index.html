@@ -26,6 +26,23 @@ title-exclusive: Biserica Sfântul Atanasie - Aurora, IL
                 {% capture schedule %}{% include schedule-ro.md %}{% endcapture %}
                 {{ schedule | markdownify }}
             </div>
+
+            <h3 class="icon-calendar">Calendar evenimente</h3>
+
+            <div class="events">
+                {% capture schedule %}{% include events-ro.md %}{% endcapture %}
+                {{ schedule | markdownify }}
+            </div>
+
+            <hr>
+            <div style="margin-top: 0px; padding-left: 0px; text-align: center">
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+                    <input type="hidden" name="cmd" value="_s-xclick">
+                    <input type="hidden" name="hosted_button_id" value="H2XBYTEEC64EL">
+                    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                </form>
+            </div>
         </div>
 
         <div class="col-md-6">
@@ -61,32 +78,8 @@ title-exclusive: Biserica Sfântul Atanasie - Aurora, IL
             <a href="{{ site.baseurl }}/ro/2017/picnic-vara.html">
                 <img class="img img-responsive" src="{{ site.baseurl }}/img/2017/picnic-vara.jpg" />
             </a>
+            
             <br>
-
-            <h3 class="icon-calendar">Calendar evenimente</h3>
-
-            <div class="events">
-                {% capture schedule %}{% include events-ro.md %}{% endcapture %}
-                {{ schedule | markdownify }}
-            </div>
-
-            <!--<h3 class="icon-link">Link-uri rapide</h3>
-            <ul>
-                <li><a href="#">Primul link</a></li>
-                <li><a href="#">Al doilea link</a></li>
-                <li><a href="#">Al treilea link</a></li>
-                <li><a href="#">Al patrulea link</a></li>
-            </ul>-->
-
-            <hr>
-            <div style="margin-top: 0px; padding-left: 0px; text-align: center">
-                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
-                    <input type="hidden" name="cmd" value="_s-xclick">
-                    <input type="hidden" name="hosted_button_id" value="H2XBYTEEC64EL">
-                    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                </form>
-            </div>
         </div>
     </div>
 </div>
