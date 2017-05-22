@@ -1,3 +1,5 @@
+* <label>Comenzi mici tradiționali</label> Nu ratați ultimele zile pentru a comanda cei mai delicioși mici tradiționali ! Biserica Sf. Atanasie va prepara micii noștri deveniți deja celebri pentru gustul lor unic, iar Dvs puteți să ii comandați pana Joi, 25 mai la Mariana Istvan - telefon/text 773-510-5255 . Caserola de 50 de mici costă $35. Micii pot fi ridicați la picnicul bisericii Sf Atanasie pe 4 iunie 2017.
+
 * <label>Ocazie specială</label> Mănăstirea "Înălțarea Domnului", din Clinton, Michigan, ne invită pe toți la sărbatorirea hramului mănăstirii. Înscrieri pentru pelerinajul la mănăstire se primesc la magazinul bisericii Sf. Atanasie. <a class="pull-right1 clearfix1" href="{{ site.baseurl }}/ro/2017/invitatie-inaltarea-domnului.html">Vezi invitația</a>
   <div class="clearfix">
       
