@@ -1,1 +1,0 @@
-* <label>Picnicul de vară</label> Duminică, 4 iunie 2017, vă invităm la Picnicul de Vară al Bisericii Sf. Atanasie! Dupa cum deja v-am obișnuit, vă asteptăm cu un meniu variat românesc, muzică românească de calitate, jocuri și voie bună! Dvs. să aduceți vreme bună! <a href="{{ site.baseurl }}/ro/2017/picnic-vara.html">Vezi detalii</a>
