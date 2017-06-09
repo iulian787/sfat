@@ -1,1 +1,0 @@
-* <label>4 iunie 2017</label> Picnicul de vară al Bisericii Sf. Atanasie -
