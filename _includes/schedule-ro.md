@@ -1,7 +1,7 @@
 
-* <label>Duminică, 2 iulie 2017</label>
+* <label>Duminică, 9 iulie 2017</label>
   * **09.15 am** - Utrenia
   * **10.00 am** - Sfânta Liturghie
   * **11.30 am** - Predica  
-  * **11.45 am** - Parastas
+  * **11.45 am** - Parastase
   * **12.00 pm** - Ora de cafea
