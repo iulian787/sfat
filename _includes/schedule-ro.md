@@ -13,3 +13,6 @@
   * Cursul de dans sportiv, clasa de copii - sala socială
   * **6:30-7:30 pm** - grupa de copii 4-6 ani
   * **7:30-8:30 pm** - grupa de copii 7-14 ani
+
+  * <label>Joi , 2 noiembrie 2017</label>
+  * **7:00 pm** - Seară Culturală Românească
