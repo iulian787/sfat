@@ -1,19 +1,16 @@
  
-* <label>Joi , 2 noiembrie 2017</label>
-  * **7:00 pm** - Seară Culturală Românească
-  
-* <label>Vineri , 3 noiembrie 2017</label>
+
+* <label>Vineri , 10 noiembrie 2017</label>
   * **7:30-8:30 pm** - Cursul de dans sportiv, clasa de adulți - sala socială
 
-* <label>Duminică , 5 noiembrie 2017</label>
+* <label>Duminică , 12 noiembrie 2017</label>
   * **09:15 am** - Utrenia
   * **10:00 am** - Sfânta Liturghie
-  * **10:30 am** - Școala Duminicală 
   * **11:15 am** - Predica 
-  * **11:45 am** - Parastas general - Moșii de toamnă
-  * **12:30 pm** - Botez
+  * **11:45 am** - Ora de cafea
+  * **12:00 pm** - Cununie
 
-* <label>Luni , 6 noiembrie 2017</label>
+* <label>Luni , 13 noiembrie 2017</label>
   * Cursul de dans sportiv, clasa de copii - sala socială
   * **6:30-7:30 pm** - grupa de copii 4-6 ani
   * **7:30-8:30 pm** - grupa de copii 7-14 ani
