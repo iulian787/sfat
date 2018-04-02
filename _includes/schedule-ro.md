@@ -1,9 +1,9 @@
 
 
 * <label>Joi, 5 aprilie 2018</label>
-  * **08:00 am** - program Spovedanie ( Mărturisire)
+  * **08:00 am** - program Spovedanie  ( Mărturisire)
   * **10:00 am** - Sfânta Liturghie a Sf Vasile cel Mare
-  * **05:00 pm** - program Spovedanie ( Mărturisire)
+  * **05:00 pm** - program Spovedanie  ( Mărturisire)
   * **07:00 pm** - Denia celor 12 Evanghelii
 
 * <label>Vineri, 6 aprilie 2018</label>
