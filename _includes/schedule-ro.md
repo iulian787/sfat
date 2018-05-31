@@ -1,6 +1,4 @@
 
-* <label>Duminică, 13 mai 2018</label>
+* <label>Duminică, 3 iunie 2018</label>
   * **10:00 am** - Sfânta Liturghie
-
-* <label>Duminică, 20 mai 2018</label>
-  * **10:00 am** - Sfânta Liturghie
+  * **12:00 pm** - Picnic - în curtea bisericii
