@@ -1,7 +1,15 @@
-* <label>Sâmbăta în Postul Crăciunului:</label>
-  * **06:00 pm** - Spovedanie
-* <label>Duminica:</label>
-  * **09:00 am** - Acatistul Domnului nostru Iisus Hristos
-  * **10:00 am** - Sfânta Liturghie
-  * **10:30 am** - Școala Duminicală
-  * **11:45 am** - Ora de cafea
+* <label>Sambata ( 2, 9, 16, 23, 30) martie</label>
+  * **06:00 pm** - – Vecernie, urmata de Spovedanie
+  * In data de 2 martie , dupa Vecernie vom savarsi
+un <b>PARASTAS DE OBSTE</b>
+* <label>Duminica ( 3, 10, 17, 24, 31, ) martie</label>
+  * **09:30 AM** - Acatistul Domnului nostru Iisus Hristos
+  * **10:00 AM** - Sfânta Liturghie
+
+* <label>Miercuri (13, 20, 27 ) martie</label>
+  * **5:00 PM - 6:00 PM** - Spovedanie
+  * **6:00 PM** - Sf. Liturghie a Darurilor mai
+inainte Sfintite
+
+* <label>Luni, 25 Martie - BUNA VESTIRE</label>
+  * **9:00 AM** - Sfânta Liturghie
