@@ -1,8 +1,7 @@
 * <label>Sambata ( 2, 9, 16, 23, 30) martie</label>
   * **06:00 pm** - – Vecernie, urmata de Spovedanie
-  * In data de 2 martie , dupa Vecernie vom savarsi
-un <b>PARASTAS DE OBSTE</b>
-* <label>Duminica ( 3, 10, 17, 24, 31, ) martie</label>
+ 
+ * <label>Duminica ( 3, 10, 17, 24, 31, ) martie</label>
   * **09:30 AM** - Acatistul Domnului nostru Iisus Hristos
   * **10:00 AM** - Sfânta Liturghie
 
