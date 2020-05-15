@@ -1,3 +1,12 @@
+* <label>Anunț important</label>  
+Dragi credincioși, așa cum am anunțat, pâna la noi dispozitii BISERICA NOASTRA VA RĂMÂNE
+ÎNCHISĂ. Slujbele și rugăciunile nu au fost întrerupte, doar au fost făcute într-o alta formă.
+Și în aceasta duminica ne vom întâlni  <a href="https://www.facebook.com/naperville.mission"><strong>LIVE</strong></a> pe pagina de Facebook a Bisericii noastre, începând cu ora
+10.00 AM.
+Totodata, dorim să vă anunțăm că pâna ne vom reîntoarce la programul nostru normal de rugaciune din
+biserică, buletinul nostru va apărea în mod săptămânal.
+Pentru urgențe, nevoi spirituale sau orice problema pe care doriți sa o discutati cu Fr. Daniel, sunteți
+rugati sa sunați la 872-985-3798. 
 * <label>Școala Duminicală</label>  
 Școala duminicală este in plina desfasurare. Pentru detalii, folositi <a href="{{ site.baseurl }}/ro/scoala-duminicala.html" target="_blank"><strong>acest link</strong></a>
 * <label>Amazon Smile</label> 
