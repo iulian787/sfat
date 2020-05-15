@@ -3,7 +3,7 @@ Dragi credincioși, așa cum am anunțat, pâna la noi dispozitii BISERICA NOAST
 ÎNCHISĂ. Slujbele și rugăciunile nu au fost întrerupte, doar au fost făcute într-o alta formă.
 Și în aceasta duminica ne vom întâlni  <a href="https://www.facebook.com/naperville.mission"><strong>LIVE</strong></a> pe pagina de Facebook a Bisericii noastre, începând cu ora
 10.00 AM.
-Totodata, dorim să vă anunțăm că pâna ne vom reîntoarce la programul nostru normal de rugaciune din
+Totodată, dorim să vă anunțăm că pâna ne vom reîntoarce la programul nostru normal de rugaciune din
 biserică, buletinul nostru va apărea în mod săptămânal.
 Pentru urgențe, nevoi spirituale sau orice problema pe care doriți sa o discutati cu Fr. Daniel, sunteți
 rugati sa sunați la 872-985-3798. 
@@ -14,4 +14,4 @@ Acum puteți ajuta biserica noastră și prin cumpărăturile pe care le faceți
 * <label>Cenaclul Literar</label>  
 Cenaclul Literar se întâlnește periodic la sediul Bisericii Sf Atanasie cel Mare sub coordonarea <strong>dnei Ligia Grindeanu</strong>, pentru a vă aduce în suflete momente de poezie și proza românească, noutăți editoriale și acorduri muzicale. Agenda întâlnirilor va fi anunțată prin e-mail și pe pagina facebook a bisericii.
 
-Mai multe detalii despre activitățile curente ale bisericii găsiți pe pagina facebook www.facebook.com/naperville.mission
+Mai multe detalii despre activitățile curente ale bisericii găsiți pe pagina facebook <a href="https://www.facebook.com/naperville.mission">www.facebook.com/naperville.mission</a>.
