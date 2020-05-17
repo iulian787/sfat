@@ -1,5 +1,5 @@
 * <label>Școala Duminicală</label>  
-Școala duminicală este in plina desfasurare. Pentru detalii, folositi <a href="{{ site.baseurl }}/ro/scoala-duminicala.html" target="_blank"><strong>acest link</strong></a>
+Scoala Duminicala  isi continua si in aceasta perioada activitatea, chiar daca in alta forma-  online.  Pentru mai multe informatii, sunteti rugati sa sunati la numarul 872-985-3799 (Psa. Cristina). Pentru detalii, folositi <a href="{{ site.baseurl }}/ro/scoala-duminicala.html" target="_blank"><strong>acest link</strong></a>
 * <label>Vendor Fair - 3 Mai 2020</label>
 Va invitam sa participati la Tirgul organizat the Biserica noastra. Puteti aduce de vinzare produse pe care le faceti sau puteti sa va prezentati business-ul pe care il practicati.  Este un mod eficient de a va face reclama si a ajuta Biserica in acelasi timp.  Daca sinteti interesati, va rugam sa completati <a href="{{ site.baseurl }}/download/St Athanasius Fair 5.2020.doc" target="_blank"><strong>acesta aplicatie</strong></a> sau sa contactati pe Ecaterina Ilioviciu, 630-854-0296.  Va asteptam cu drag.
 * <label>Amazon Smile</label> 
