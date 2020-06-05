@@ -1,6 +1,6 @@
 * <label>Anunț important</label>  
-<a href="{{ site.baseurl }}/download/DirectiveLetterheadPentecost.pdf" target="_blank" rel="nofollow"><strong>DIRECTIVA IPS NATHANIEL CU PRIVIRE LA REDESCHIDEREA BISERICII</strong></a>
-Dragi credincioși, așa cum am anunțat, pâna la noi dispozitii BISERICA NOASTRA VA RĂMÂNE
+<a href="{{ site.baseurl }}/download/DispozițiePrivindRusaliile.pdf" target="_blank" rel="nofollow"><strong>DIRECTIVA IPS NATHANIEL CU PRIVIRE LA REDESCHIDEREA BISERICII</strong></a>
+(<a href="{{ site.baseurl }}/download/DirectiveLetterheadPentecost.pdf" target="_blank" rel="nofollow"><strong>varianta in limba engleza</strong></a>). Dragi credincioși, așa cum am anunțat, pâna la noi dispozitii BISERICA NOASTRA VA RĂMÂNE
 ÎNCHISĂ. Slujbele și rugăciunile nu au fost întrerupte, doar au fost făcute într-o alta formă.
 Și în aceasta duminica ne vom întâlni  <a href="https://www.facebook.com/naperville.mission"><strong>LIVE</strong></a> pe pagina de Facebook a Bisericii noastre, începând cu ora
 10.00 AM.
